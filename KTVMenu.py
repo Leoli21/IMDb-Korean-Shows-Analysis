@@ -1,6 +1,14 @@
-#Content Based Movie Recommender System with National Langauge Processing (NLP)
+# Author: Leo Li
+# Purpose: Created a Korean TV Show Menu that conducts Data Analysis of
+# an IMDb Korean TV Series Dataset.
+# Also contains a content-based tv show recommendation system that utilizes natural
+# language processing (NLP)
+
 #Reference:
 #https://towardsdatascience.com/how-to-build-from-scratch-a-content-based-movie-recommender-with-natural-language-processing-25ad400eb243
+
+#Dataset:
+#https://www.kaggle.com/datasets/chanoncharuchinda/imdb-korean-tv-series
 
 #Importing Libraries
 import pandas as pd
